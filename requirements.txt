@@ -23,3 +23,5 @@ json
 pandas
 FastAPI
 uvicorn
+basedosdados
+google-cloud-bigquery
